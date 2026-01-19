@@ -47,7 +47,7 @@ http://localhost:3000/api
 /automoveis/id, para pesquisa pelo id
 /automoveis?search=palavra, para pesquisa de cor ou marca.
 
-## O mesmo vale para
+## O mesmo vale para motoristas:
 /motoristas,
 /motoristas/id,
 /motoristas?search=nome, pesquisa de nome do motorista
